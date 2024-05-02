@@ -73,7 +73,7 @@ jobs:
       run: echo "IMAGE_TAG=${{ env.REPOSITORY_REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPOSITORY }}/${{ env.IMAGE }}:$GITHUB_SHA" >> $GITHUB_ENV
 
     - name: Lock image version inß deployment.yaml
-      run: sed -i 's|CLOUDDEMO_IMAGE|${{ env.IMAGE_TAG }}|g' ../deployment.yaml
+      run: sed -i 's|CLOUDDEMO_IMAGE|${{ env.IMAGE_TAG }}|g' ./workflows/deployment.yaml
 
     - name: Build Docker images
       run: |
