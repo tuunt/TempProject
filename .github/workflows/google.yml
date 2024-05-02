@@ -27,7 +27,7 @@ env:
   REPOSITORY: clouddemo
   REPOSITORY_REGION: us-central1
 
-  IMAGE: TempProject
+  IMAGE: tempproject
 
 jobs:
   build:
