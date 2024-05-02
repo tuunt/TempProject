@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TempProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6be881499abe40c32346877932476dc2ad8248fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de2162a5c462ca69359b1f0b48afde6c9e0b68d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TempProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TempProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
