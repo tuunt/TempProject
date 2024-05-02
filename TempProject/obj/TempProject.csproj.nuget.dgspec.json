@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dung/Documents/TempProject/TempProject/TempProject/TempProject.csproj": {}
+    "/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/TempProject.csproj": {}
   },
   "projects": {
-    "/Users/dung/Documents/TempProject/TempProject/TempProject/TempProject.csproj": {
+    "/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/TempProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dung/Documents/TempProject/TempProject/TempProject/TempProject.csproj",
+        "projectUniqueName": "/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/TempProject.csproj",
         "projectName": "TempProject",
-        "projectPath": "/Users/dung/Documents/TempProject/TempProject/TempProject/TempProject.csproj",
+        "projectPath": "/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/TempProject.csproj",
         "packagesPath": "/Users/dung/.nuget/packages/",
-        "outputPath": "/Users/dung/Documents/TempProject/TempProject/TempProject/obj/",
+        "outputPath": "/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dung/.nuget/NuGet/NuGet.Config"
