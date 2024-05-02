@@ -1,0 +1,7 @@
+/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/bin/Release/net8.0/publish/TempProject
+/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/bin/Release/net8.0/publish/appsettings.json
+/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/bin/Release/net8.0/publish/TempProject.dll
+/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/bin/Release/net8.0/publish/TempProject.deps.json
+/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/bin/Release/net8.0/publish/TempProject.runtimeconfig.json
+/Users/dung/Documents/TempProject/BuildGKE/TempProject/TempProject/bin/Release/net8.0/publish/TempProject.pdb
